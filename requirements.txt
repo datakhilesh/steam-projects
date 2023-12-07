@@ -3,6 +3,5 @@ numpy
 pandas
 pydeck
 streamlit
-SKLEARN_ALLOW_DEPRECATED_SKLEARN_PACKAGE_INSTALL==True
-sklearn
+scikit-learn
 datasets
